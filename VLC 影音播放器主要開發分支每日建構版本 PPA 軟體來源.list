@@ -1,0 +1,5 @@
+# VLC Daily Build of master branch : “Videolan” team
+# https://launchpad.net/~videolan/+archive/ubuntu/master-daily
+# This PPA contains daily builds from the VLC development branch.
+# deb http://ppa.launchpad.net/videolan/master-daily/ubuntu trusty main #VLC 影音播放器主要開發分支每日建構版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/videolan/master-daily/ubuntu trusty main #VLC 影音播放器主要開發分支每日建構版本 PPA 軟體來源

@@ -1,0 +1,10 @@
+# Hadoop Stable : “Hadoop Ubuntu Packagers” team
+# https://launchpad.net/~hadoop-ubuntu/+archive/ubuntu/stable
+# Hadoop Stable packages
+# 
+# These packages are based on Apache Bigtop with appropriate patches to enable native integration on Ubuntu Oneiric onwards and for ARM based archictectures.
+# 
+# Please report bugs here - https://bugs.launchpad.net/hadoop-ubuntu-packages/+filebug
+deb http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu/ trusty main #Ubuntu Hadoop Team 穩定版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/hadoop-ubuntu/stable/ubuntu/ trusty main #Ubuntu Hadoop Team 穩定版本 PPA 軟體來源
+
