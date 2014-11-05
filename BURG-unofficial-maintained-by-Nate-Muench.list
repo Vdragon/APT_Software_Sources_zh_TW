@@ -1,0 +1,5 @@
+# burg for Natty/Oneiric : Nate Muench (Mink)
+# https://launchpad.net/~n-muench/+archive/ubuntu/burg
+# Burg (Maverick packaging) has been copied from the original repo (https://launchpad.net/~bean123ch/+archive/burg), and rebuilt for Natty. Nothing has been changed, just a basic copy and rebuild.
+deb http://ppa.launchpad.net/n-muench/burg/ubuntu trusty main # BURG 開機載入程式非官方軟體來源
+# deb-src http://ppa.launchpad.net/n-muench/burg/ubuntu trusty main # BURG 開機載入程式非官方軟體來源
