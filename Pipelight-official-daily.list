@@ -1,0 +1,4 @@
+# pipelight-daily : “Pipelight Dev Team” team
+# https://launchpad.net/~pipelight/+archive/ubuntu/daily
+deb http://ppa.launchpad.net/pipelight/daily/ubuntu trusty main #Pipelight 官方穩定版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/pipelight/daily/ubuntu trusty main#Pipelight 官方每日建構版本版本 PPA 軟體來源

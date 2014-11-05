@@ -1,0 +1,6 @@
+# XBMC Nightly Builds : “XBMC for Linux” team
+# https://launchpad.net/~team-xbmc/+archive/ubuntu/xbmc-nightly
+# http://kodi.wiki/view/Installing_XBMC_for_Linux#Ubuntu
+# Nightly builds
+# deb http://ppa.launchpad.net/team-xbmc/xbmc-nightly/ubuntu/ trusty main #XBMC 官方每日建構版本軟體來源
+# deb-src http://ppa.launchpad.net/team-xbmc/xbmc-nightly/ubuntu/ trusty main #XBMC 官方每日建構版本軟體來源

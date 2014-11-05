@@ -1,0 +1,7 @@
+# X Updates : “Ubuntu-X” team
+# https://launchpad.net/~ubuntu-x-swat/+archive/ubuntu/x-updates
+# Updated versions of X.org drivers, libraries, etc. for Ubuntu.
+# 
+# This PPA is for stable upstream releases of X.org components. If you're looking for something even more bleeding-edge, please see the xorg-edgers PPA.
+deb http://ppa.launchpad.net/ubuntu-x-swat/x-updates/ubuntu trusty main #X Updates X 伺服器釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/ubuntu-x-swat/x-updates/ubuntu trusty main #X Updates X 伺服器釋出版本軟體來源

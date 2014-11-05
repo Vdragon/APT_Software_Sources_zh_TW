@@ -1,0 +1,7 @@
+# PlayOnLinux
+# http://www.playonlinux.com/en/download.html
+# wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add -
+# sudo wget http://deb.playonlinux.com/playonlinux_trusty.list -O /etc/apt/sources.list.d/playonlinux.list
+# sudo apt-get update
+# sudo apt-get install playonlinux
+deb http://deb.playonlinux.com/ trusty main #PlayOnLinux 官方軟體來源

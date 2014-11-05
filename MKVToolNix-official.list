@@ -1,0 +1,6 @@
+# mkvtoolnix -- Matroska tools for Linux/Unix and Windows
+# https://www.bunkus.org/videotools/mkvtoolnix/downloads.html#ubuntu
+# I provide i386 and Amd64 binaries for MKVToolNix.
+# I do not provide binaries for libEBML and libMatroska anymore as they're already part of the official distribution. If those are too old MKVToolNix even bundles the current version of both libraries.
+deb http://www.bunkus.org/ubuntu/trusty/ ./ # MKVToolNix 官方軟體來源
+# deb-src http://www.bunkus.org/ubuntu/trusty/ ./ # MKVToolNix 官方軟體來源

@@ -1,2 +1,5 @@
+# Tetralet Luna 所維護的軟體來源
+# http://debian.luna.com.tw
+# 含有 HIME 輸入法
 deb http://debian.luna.com.tw/ubuntu/ ./ #Tetralet Luna 所維護的軟體來源
 # deb-src http://debian.luna.com.tw/ubuntu/ ./ #Tetralet Luna 所維護的軟體來源

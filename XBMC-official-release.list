@@ -1,0 +1,6 @@
+# XBMC PPA : “XBMC for Linux” team
+# https://launchpad.net/~team-xbmc/+archive/ubuntu/ppa
+# http://kodi.wiki/view/Installing_XBMC_for_Linux#Ubuntu
+# Final release builds
+deb http://ppa.launchpad.net/team-xbmc/ppa/ubuntu/ trusty main #XBMC 官方釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/team-xbmc/ppa/ubuntu/ trusty main #XBMC 官方釋出版本軟體來源

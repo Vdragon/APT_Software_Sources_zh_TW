@@ -1,0 +1,5 @@
+# xorg-edgers fresh X crack : “xorg crack pushers” team
+# https://launchpad.net/~xorg-edgers/+archive/ubuntu/ppa
+# == Xorg packages fresh from git ==
+# deb http://ppa.launchpad.net/xorg-edgers/ppa/ubuntu trusty main # xorg-edgers X 伺服器開發中版本軟體來源
+# deb-src http://ppa.launchpad.net/xorg-edgers/ppa/ubuntu trusty main # xorg-edgers X 伺服器開發中版本軟體來源

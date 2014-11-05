@@ -1,0 +1,12 @@
+# pipelight-stable : “Pipelight Dev Team” team
+# https://launchpad.net/~pipelight/+archive/ubuntu/stable
+# http://pipelight.net/cms/install/installation-ubuntu.html
+# We have prepared a PPA archive for Ubuntu which provides you with prebuilt binarys and automatic updates. It contains Pipelight and our patched wine version, which is installed to a separate location and won't conflict with your regular wine installation. Simply use apt-get to install Pipelight and the package system will take of all required dependencies.
+# Just type the following commands in your terminal to add the repository and to install pipelight-multi package:
+# 
+# 1. sudo add-apt-repository ppa:pipelight/stable
+# 2. sudo apt-get update
+# 3. sudo apt-get install --install-recommends pipelight-multi
+# 4. sudo pipelight-plugin --update
+deb http://ppa.launchpad.net/pipelight/stable/ubuntu trusty main #Pipelight 官方穩定版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/pipelight/stable/ubuntu trusty main#Pipelight 官方穩定版本 PPA 軟體來源

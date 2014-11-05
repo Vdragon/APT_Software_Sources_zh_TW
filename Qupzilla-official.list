@@ -1,0 +1,5 @@
+# QupZilla : David Rosca
+# https://launchpad.net/~nowrep/+archive/ubuntu/qupzilla
+# http://www.qupzilla.com/download#ubuntu
+deb http://ppa.launchpad.net/nowrep/qupzilla/ubuntu/ trusty main #Qupzilla 官方穩定版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/nowrep/qupzilla/ubuntu/ trusty main #Qupzilla 官方穩定版本 PPA 軟體來源

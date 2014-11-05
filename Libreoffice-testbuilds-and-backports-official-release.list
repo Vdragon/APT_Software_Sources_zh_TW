@@ -1,0 +1,7 @@
+# LibreOffice PPA : “LibreOffice Packaging” team
+# https://launchpad.net/~libreoffice/+archive/ubuntu/ppa
+# LibreOffice test builds and backports
+# 
+# This PPA will have what the Document Foundation calls "LibreOffice fresh", the latest release of the newest series (but no alpha/beta releases).
+deb http://ppa.launchpad.net/libreoffice/ppa/ubuntu trusty main #LibreOffice 最新釋出版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/libreoffice/ppa/ubuntu trusty main #LibreOffice 最新釋出版本 PPA 軟體來源

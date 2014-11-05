@@ -1,0 +1,6 @@
+# PPA by Pidgin Developers : “Pidgin Developers” team
+# https://launchpad.net/~pidgin-developers/+archive/ubuntu/ppa
+# This PPA contains packages of the current version of Pidgin for all versions of Ubuntu currently supported on the desktop. This allows you to stay current with Pidgin while using a stable release of Ubuntu.
+deb http://ppa.launchpad.net/pidgin-developers/ppa/ubuntu/ trusty main #Pidgin 即時通訊軟體官方軟體來源
+# deb-src http://ppa.launchpad.net/pidgin-developers/ppa/ubuntu/ trusty main #Pidgin 即時通訊軟體官方軟體來源
+

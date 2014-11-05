@@ -1,0 +1,5 @@
+# ghdl : Peter Gavin
+# https://launchpad.net/~pgavin/+archive/ubuntu/ghdl
+# GHDL packages for precise and later
+deb http://ppa.launchpad.net/pgavin/ghdl/ubuntu/ trusty main #ghdl 非官方 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/pgavin/ghdl/ubuntu/ trusty main #ghdl 非官方 PPA 軟體來源

@@ -1,0 +1,6 @@
+# XBMC Unstable : “XBMC for Linux” team
+# https://launchpad.net/~team-xbmc/+archive/ubuntu/unstable
+# http://kodi.wiki/view/Installing_XBMC_for_Linux#Ubuntu
+# Repository for pre-release versions of XBMC. These builds are UNSTABLE, use at your own risk.
+# deb http://ppa.launchpad.net/team-xbmc/unstable/ubuntu/ trusty main #XBMC 官方尚未釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/team-xbmc/unstable/ubuntu/ trusty main #XBMC 官方尚未釋出版本軟體來源

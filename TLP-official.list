@@ -4,3 +4,4 @@
 # 
 # Project homepage: http://linrunner.de/tlp
 deb http://ppa.launchpad.net/linrunner/tlp/ubuntu trusty main #TLP 電源管理元件官方 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/linrunner/tlp/ubuntu trusty main #TLP 電源管理元件官方 PPA 軟體來源
