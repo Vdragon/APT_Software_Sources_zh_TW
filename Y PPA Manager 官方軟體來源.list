@@ -1,4 +1,0 @@
-# Y PPA Manager : “WebUpd8” team
-# https://launchpad.net/~webupd8team/+archive/ubuntu/y-ppa-manager
-deb http://ppa.launchpad.net/webupd8team/y-ppa-manager/ubuntu trusty main # Y PPA Manager 官方軟體來源
-# deb-src http://ppa.launchpad.net/webupd8team/y-ppa-manager/ubuntu trusty main # Y PPA Manager 官方軟體來源
