@@ -1,0 +1,5 @@
+# Launchpad PPA for Grub Customizer
+# https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer
+# This PPA contains the latest release of Grub Customizer.
+deb http://ppa.launchpad.net/danielrichter2007/grub-customizer/ubuntu/ trusty main #Grub Customizer 官方最新釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/danielrichter2007/grub-customizer/ubuntu/ trusty main #Grub Customizer 官方最新釋出版本軟體來源
