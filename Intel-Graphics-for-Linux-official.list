@@ -1,3 +1,1 @@
-# Intel Graphics for Linux
-# https://01.org/linuxgraphics/
-deb https://download.01.org/gfx/ubuntu/14.04/main trusty main #Intel Graphics drivers 官方軟體來源
+intellinuxgraphics.list
