@@ -1,5 +1,4 @@
-# Ubuntu 尚未釋出版本官方軟體來源
-# 注意：啟用此軟體來源前請先設定好 APT Pinning！
+# Ubuntu 尚未釋出版本官方軟體來源（注意：啟用此軟體來源前請先設定好 APT Pinning！）
 # See https://wiki.ubuntu.com/Testing/EnableProposed for how to properly use these software sources
 # deb http://free.nchc.org.tw/ubuntu/ vivid main restricted
 # deb-src http://free.nchc.org.tw/ubuntu/ vivid main restricted
