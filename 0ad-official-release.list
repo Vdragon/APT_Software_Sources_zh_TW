@@ -1,0 +1,5 @@
+# 0 A.D. : “Wildfire Games” team
+# https://launchpad.net/~wfg/+archive/ubuntu/0ad
+# This PPA contains the latest official point releases of 0 A.D. with packages for Precise, Trusty and Utopic!
+deb http://ppa.launchpad.net/wfg/0ad/ubuntu trusty main # Wildfire Games 0ad 官方釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/wfg/0ad/ubuntu trusty main # Wildfire Games 0ad 官方釋出版本軟體來源
