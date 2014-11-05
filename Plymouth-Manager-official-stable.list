@@ -1,0 +1,5 @@
+# Plymouth Manager : Mario Guerriero
+# https://launchpad.net/~mefrio-g/+archive/ubuntu/plymouthmanager
+# In this ppa you can find the latest stable release of Plymouth Manager
+deb http://ppa.launchpad.net/mefrio-g/plymouthmanager/ubuntu oneiric main # Plymouth Manager 官方穩定版本軟體來源（2014/11/05 檢查最新只有提供 oneiric 散佈版本）
+# deb-src http://ppa.launchpad.net/mefrio-g/plymouthmanager/ubuntu oneiric main # Plymouth Manager 官方穩定版本軟體來源（2014/11/05 檢查最新只有提供 oneiric 散佈版本）

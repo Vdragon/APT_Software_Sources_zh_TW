@@ -1,0 +1,8 @@
+# WebcamStudio PPA (Daily Builds) : “WebcamStudio Team” team
+# https://launchpad.net/~webcamstudio/+archive/ubuntu/webcamstudio-dailybuilds
+# This is the Daily Builds PPA of WebcamStudio.
+# 
+# These packages are considered as testing because they contain the latest code of WebcamStudio.
+# At the same time this means that most of the already discovered bugs, could be fixed in these latest packages.
+# deb http://ppa.launchpad.net/webcamstudio/webcamstudio-dailybuilds/ubuntu trusty main # WebcamStudio 官方每日建構版本軟體來源
+# deb-src http://ppa.launchpad.net/webcamstudio/webcamstudio-dailybuilds/ubuntu trusty main # WebcamStudio 官方每日建構版本軟體來源

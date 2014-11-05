@@ -1,0 +1,5 @@
+# Updated and Optimized Open Graphics Drivers : Oibaf
+# https://launchpad.net/~oibaf/+archive/ubuntu/graphics-drivers
+# This PPA provides updated X (2D) and mesa (3D) free graphics drivers for radeon, intel and nvidia hardware.
+deb http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu trusty main #Oibaf 所維護的新版本非官方 X 與 Mesa 軟體
+# deb-src http://ppa.launchpad.net/oibaf/graphics-drivers/ubuntu trusty main #Oibaf 所維護的新版本非官方 X 與 Mesa 軟體

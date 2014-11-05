@@ -1,0 +1,11 @@
+# http://liveusb.info/dotclear/index.php?pages/install
+## Trust software source
+# wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc | sudo apt-key add - 
+## Update software source
+# sudo apt-get update 
+## Install MultiSystem 
+# sudo apt-get install multisystem  
+## add user to adm group
+# sudo usermod -a -G adm "$SUDO_USER"
+deb http://liveusb.info/multisystem/depot/ all main #Multisystem 官方軟體來源
+# deb-src http://liveusb.info/multisystem/depot/ all main #Multisystem 官方軟體來源

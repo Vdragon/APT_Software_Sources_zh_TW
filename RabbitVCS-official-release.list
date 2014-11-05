@@ -1,0 +1,5 @@
+# RabbitVCS : “RabbitVCS” team
+# https://launchpad.net/~rabbitvcs/+archive/ubuntu/ppa
+# http://wiki.rabbitvcs.org/wiki/install/ubuntu#installation-on-ubuntu
+deb http://ppa.launchpad.net/rabbitvcs/ppa/ubuntu trusty main #RabbitVCS 官方釋出版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/rabbitvcs/ppa/ubuntu trusty main #RabbitVCS 官方釋出版本 PPA 軟體來源

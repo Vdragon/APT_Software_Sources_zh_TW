@@ -1,0 +1,15 @@
+# SMPlayer : rvm
+# https://launchpad.net/~rvm/+archive/ubuntu/smplayer
+# Packages for SMPlayer.
+# 
+# To install the OpenPGP key for this PPA, run this command in a terminal:
+# sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com E4A4F4F4
+# 
+# http://smplayer.sourceforge.net/zh_TW/downloads
+# 適用於 Ubuntu 的套件
+# 要安裝 SMPlayer，只要在終端機中執行這些命令：
+# sudo add-apt-repository ppa:rvm/smplayer 
+# sudo apt-get update 
+# sudo apt-get install smplayer smtube smplayer-themes smplayer-skins 
+deb http://ppa.launchpad.net/rvm/smplayer/ubuntu trusty main #SMPlayer 影音播放軟體官方釋出版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/rvm/smplayer/ubuntu trusty main #SMPlayer 影音播放軟體官方釋出版本 PPA 軟體來源

@@ -1,0 +1,7 @@
+# WebcamStudio PPA (Stable Builds) : “WebcamStudio Team” team
+# https://launchpad.net/~webcamstudio/+archive/ubuntu/webcamstudio-stable
+# This is the Stable Builds PPA of WebcamStudio.
+# 
+# The packages here are considered stable, so you can safely install them and use them as needed.
+deb http://ppa.launchpad.net/webcamstudio/webcamstudio-stable/ubuntu trusty main # WebcamStudio 官方穩定版本軟體來源
+# deb-src http://ppa.launchpad.net/webcamstudio/webcamstudio-stable/ubuntu trusty main # WebcamStudio 官方穩定版本軟體來源
