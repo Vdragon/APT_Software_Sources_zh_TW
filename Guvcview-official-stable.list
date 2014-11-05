@@ -1,0 +1,6 @@
+# Stable : Paulo Assis
+# http://guvcview.sourceforge.net/downloads.html
+# https://launchpad.net/~pj-assis/+archive/ubuntu/ppa
+# stable packages for guvcview
+deb http://ppa.launchpad.net/pj-assis/ppa/ubuntu trusty main # Guvcview 官方穩定版本軟體來源
+# deb-src http://ppa.launchpad.net/pj-assis/ppa/ubuntu trusty main # Guvcview 官方穩定版本軟體來源
