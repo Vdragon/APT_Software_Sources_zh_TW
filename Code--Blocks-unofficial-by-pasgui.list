@@ -1,4 +1,4 @@
 # PPA for pasgui : pasgui
 # https://launchpad.net/~pasgui/+archive/ubuntu/ppa
-deb http://ppa.launchpad.net/pasgui/ppa/ubuntu trusty main 
-# deb-src http://ppa.launchpad.net/pasgui/ppa/ubuntu trusty main 
+# deb http://ppa.launchpad.net/pasgui/ppa/ubuntu trusty main # 非官方 Code::Blocks 整合式開發環境開發中版本軟體來源
+# deb-src http://ppa.launchpad.net/pasgui/ppa/ubuntu trusty main # 非官方 Code::Blocks 整合式開發環境開發中版本軟體來源
