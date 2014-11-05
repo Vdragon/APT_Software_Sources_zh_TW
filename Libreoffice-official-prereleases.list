@@ -1,0 +1,12 @@
+# LibreOffice Pre-Releases : “LibreOffice Packaging” team
+# https://launchpad.net/~libreoffice/+archive/ubuntu/libreoffice-prereleases
+# This ppa contains alpha and beta release (before the 4.X.0 release) and early release candidates. Only for the most brave and courageous!
+# 
+# to test these do:
+# sudo apt-get purge libreoffice-core
+# sudo add-apt-repository ppa:libreoffice/libreoffice-prereleases
+# sudo apt-get update
+# sudo apt-get install libreoffice
+
+# deb http://ppa.launchpad.net/libreoffice/libreoffice-prereleases/ubuntu trusty main #LibreOffice 辦公室生產力套裝軟體官方釋出前版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/libreoffice/libreoffice-prereleases/ubuntu trusty main #LibreOffice 辦公室生產力套裝軟體官方釋出前版本 PPA 軟體來源
