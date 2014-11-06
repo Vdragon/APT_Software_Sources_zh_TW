@@ -1,5 +1,7 @@
 # Deb Multimedia Packages::Home
 # http://deb-multimedia.org/
+# Q: Where is the public GPG key ?
+# The key is 1F41B907
 
 # For wheezy (stable) amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc and sparc packages
 # add in your /etc/apt/sources.list
