@@ -1,0 +1,10 @@
+# VideoLAN - developers - libdvdcss
+# http://www.videolan.org/developers/libdvdcss.html
+# ## Get libdvdcss
+# Last version of libdvdcss is 1.3.0.
+# Our Debian/Ubuntu repository can be accessed by adding the following content to /etc/apt/sources.list
+deb http://download.videolan.org/pub/debian/stable/ / # libdvdcss 官方釋出版本軟體來源
+# deb-src http://download.videolan.org/pub/debian/stable/ / # libdvdcss 官方釋出版本軟體來源
+# And by running
+# $ wget -O - http://download.videolan.org/pub/debian/videolan-apt.asc|sudo apt-key add -
+# libdvdcss is available through Git or by browsing the releases.
