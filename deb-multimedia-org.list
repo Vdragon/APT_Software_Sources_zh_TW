@@ -1,0 +1,79 @@
+# Deb Multimedia Packages::Home
+# http://deb-multimedia.org/
+
+# For wheezy (stable) amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc and sparc packages
+# add in your /etc/apt/sources.list
+# non-free is for i386 and amd64 arches only.
+# deb http://www.deb-multimedia.org wheezy main non-free
+# or
+# deb ftp://ftp.deb-multimedia.org wheezy main non-free
+# or
+# deb http://www.deb-multimedia.org stable main non-free
+# or
+deb ftp://ftp.deb-multimedia.org stable main non-free
+
+# For wheezy (stable) backport amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc and sparc packages
+# add in your /etc/apt/sources.list
+# non-free is for i386 and amd64 arches only.
+# deb http://www.deb-multimedia.org wheezy main non-free
+# deb http://www.deb-multimedia.org wheezy-backports main
+# or
+# deb ftp://ftp.deb-multimedia.org wheezy main non-free
+# deb ftp://ftp.deb-multimedia.org wheezy-backports main
+# or
+# deb http://www.deb-multimedia.org stable main non-free
+# deb http://www.deb-multimedia.org stable-backports main
+# or
+# deb ftp://ftp.deb-multimedia.org stable main non-free 
+# deb ftp://ftp.deb-multimedia.org stable-backports main
+
+# For jessie (testing) amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc and sparc packages
+# add in your /etc/apt/sources.list
+# non-free is for i386 only. Now amd64 use multi-arch.
+# deb http://www.deb-multimedia.org jessie main non-free
+# or
+# deb ftp://ftp.deb-multimedia.org jessie main non-free
+# or
+# deb http://www.deb-multimedia.org testing main non-free
+# or
+# deb ftp://ftp.deb-multimedia.org testing main non-free
+
+# For sid (unstable) amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc and sparc packages.
+# add in your /etc/apt/sources.list
+# non-free is for i386 only. Now amd64 use multi-arch.
+# deb http://www.deb-multimedia.org sid main non-free
+# or
+# deb ftp://ftp.deb-multimedia.org sid main non-free
+
+# For squeeze (oldstable) amd64, armel, i386, ia64, kfreebsd-i386, mipsel, powerpc and sparc packages
+# add in your /etc/apt/sources.list
+# deb http://www.deb-multimedia.org squeeze main
+# or
+# deb ftp://ftp.deb-multimedia.org squeeze main
+# or
+# deb http://www.deb-multimedia.org oldstable main
+# or
+# deb ftp://ftp.deb-multimedia.org oldstable main
+
+# For squeeze backports (oldstable-backports) amd64, armel, i386, kfreebsd-i386, mipsel, powerpc and sparc packages
+# add in your /etc/apt/sources.list
+# deb http://www.deb-multimedia.org squeeze main non-free
+# deb http://www.deb-multimedia.org squeeze-backports main
+# or
+# deb ftp://ftp.deb-multimedia.org oldstable-backports main non-free
+# deb ftp://ftp.deb-multimedia.org oldstable-backports main
+
+# For experimental amd64 and i386 packages.
+# add in your /etc/apt/sources.list
+# (Unstable is also necessary).
+# deb http://www.deb-multimedia.org experimental main
+# or
+# deb ftp://ftp.deb-multimedia.org experimental main 
+# The official Debian experimental repository isn't needed
+# but the sid repository is mandatory.
+
+# For source
+# add in your /etc/apt/sources.list
+# deb-src http://www.deb-multimedia.org sid main
+# or
+# deb-src ftp://ftp.deb-multimedia.org sid main
