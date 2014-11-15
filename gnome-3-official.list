@@ -2,6 +2,8 @@
 # https://launchpad.net/~gnome3-team/+archive/ubuntu/gnome3
 # Before upgrading your system to a new Ubuntu release (i.e. from Ubuntu 14.04 to 14.10), you should probably run 'ppa-purge ppa:gnome3-team/gnome3' first.
 # *** You need to run 'sudo apt-get dist-upgrade' to avoid problems. ***
+# 
+# Add GPG key to verify software: # apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B1510FD
 
 deb http://ppa.launchpad.net/gnome3-team/gnome3/ubuntu/ trusty main #GNOME 桌面環境第 3 版官方 PPA 軟體來源
 # deb-src http://ppa.launchpad.net/gnome3-team/gnome3/ubuntu/ trusty main #GNOME 桌面環境第 3 版官方 PPA 軟體來源
