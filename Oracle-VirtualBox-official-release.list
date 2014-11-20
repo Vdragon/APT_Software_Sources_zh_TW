@@ -1,2 +1,5 @@
+# Oracle VirtualBox
+# https://www.virtualbox.org/
+# 安裝軟體來源驗證用金鑰：$ wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
 deb http://download.virtualbox.org/virtualbox/debian/ trusty contrib #Oracle Virtualbox 官方軟體來源
 # deb-src http://download.virtualbox.org/virtualbox/debian/ trusty contrib #Oracle Virtualbox 官方軟體來源
