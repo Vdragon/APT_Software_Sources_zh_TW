@@ -1,0 +1,6 @@
+# Inkscape Stable : “Inkscape Developers” team
+# https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable
+# The Inkscape Stable PPA is intended to provide the current supported release of Inkscape.
+# 安裝軟體來源驗證用金鑰：# apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 22C4850146603F3DB0ED00479DA4BD18B9A06DE3
+deb http://ppa.launchpad.net/inkscape.dev/stable/ubuntu trusty main # Inkscape 向量圖設計軟體官方釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/inkscape.dev/stable/ubuntu trusty main # Inkscape 向量圖設計軟體官方釋出版本軟體來源

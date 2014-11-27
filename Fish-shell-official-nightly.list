@@ -1,0 +1,7 @@
+# Fish shell - nightly build from git master : “Fish shell maintainers” team
+# https://launchpad.net/~fish-shell/+archive/ubuntu/nightly-master
+# This repository contains regular builds of the most recent source of Fish shell, built from the Git master trunk at https://github.com/fish-shell/fish-shell/.
+# 
+# 安裝軟體來源驗證用公鑰：# apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6DC33CA5
+# deb http://ppa.launchpad.net/fish-shell/nightly-master/ubuntu trusty main # Fish 殼程式官方每夜建構版本軟體來源
+# deb-src http://ppa.launchpad.net/fish-shell/nightly-master/ubuntu trusty main # Fish 殼程式官方每夜建構版本軟體來源

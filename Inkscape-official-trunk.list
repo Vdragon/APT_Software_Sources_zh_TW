@@ -1,0 +1,6 @@
+# Inkscape Trunk : “Inkscape Developers” team
+# https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable
+# The Inkscape Trunk PPA is intended to provide trunk builds for users who like the bleeding edge. We do not provide official support (you may be able to get support in our irc channel though) for these builds. As always bug reports and feedback are both appreciated. Note, we always try to keep trunk as stable as possible as our developers and testers use it for production work.
+# 安裝軟體來源驗證用金鑰：# apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 22C4850146603F3DB0ED00479DA4BD18B9A06DE3
+# deb http://ppa.launchpad.net/inkscape.dev/trunk/ubuntu trusty main # Inkscape 向量圖設計軟體官方開發中版本軟體來源
+# deb-src http://ppa.launchpad.net/inkscape.dev/trunk/ubuntu trusty main # Inkscape 向量圖設計軟體官方開發中版本軟體來源
