@@ -1,0 +1,4 @@
+# http://wiki.geogebra.org/en/Reference:GeoGebra_Installation
+# 安裝 GPG key： $ wget --output-document=- "http://www.geogebra.net/linux/office@geogebra.org.gpg.key" | sudo apt-key add -
+deb http://www.geogebra.net/linux/ stable main#Geogebra 動態數學軟體官方釋出版本軟體來源
+# deb-src http://www.geogebra.net/linux/ stable main#Geogebra 動態數學軟體官方釋出版本軟體來源
