@@ -1,0 +1,6 @@
+# Git stable releases : “Ubuntu Git Maintainers” team
+# https://launchpad.net/~git-core/+archive/ubuntu/ppa
+# The most current stable version of Git for Ubuntu.
+# Install signing key: # apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E1DD270288B4E6030699E45FA1715D88E1DF1F24
+deb http://ppa.launchpad.net/git-core/ppa/ubuntu trusty main# Ubuntu Git Maintainers team 維護的 Git 穩定版本軟體來源 
+# deb-src http://ppa.launchpad.net/git-core/ppa/ubuntu trusty main# Ubuntu Git Maintainers team 維護的 Git 穩定版本軟體來源

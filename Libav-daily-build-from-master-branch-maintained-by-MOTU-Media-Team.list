@@ -1,0 +1,8 @@
+# Libav Daily Builds : “MOTU Media Team” team
+# https://launchpad.net/~motumedia/+archive/ubuntu/libav-daily
+# This PPA contains daily builds of Libav that are built from the git master branch.
+# 
+# They are intended for test rebuilds and testing of dependent packages. Do not enable this PPA on production systems!
+# 
+# deb http://ppa.launchpad.net/motumedia/libav-daily/ubuntu trusty main#由 MOTU Media Team 維護的 Libav 每日建構版本 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/motumedia/libav-daily/ubuntu trusty main#由 MOTU Media Team 維護的 Libav 每日建構版本 PPA 軟體來源

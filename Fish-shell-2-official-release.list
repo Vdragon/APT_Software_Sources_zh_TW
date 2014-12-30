@@ -1,0 +1,7 @@
+# Fish shell - 2.x release series : “Fish shell maintainers” team
+# https://launchpad.net/~fish-shell/+archive/ubuntu/release-2
+# This archive contains releases made from the Fish 2.x series.
+# 
+# 安裝軟體來源驗證用公鑰：# apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6DC33CA5
+deb http://ppa.launchpad.net/fish-shell/release-2/ubuntu trusty main # Fish 殼程式官方第2版釋出版本軟體來源
+# deb-src http://ppa.launchpad.net/fish-shell/release-2/ubuntu trusty main # Fish 殼程式官方第2版釋出版本軟體來源

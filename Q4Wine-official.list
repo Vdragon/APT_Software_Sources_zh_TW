@@ -3,6 +3,9 @@
 # This is an official PPA for Q4Wine project:
 # http://tehnick-8.narod.ru/q4wine/
 # http://q4wine.brezblock.org.ua/download/
+# 
+# Import the key:
+# $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 437276613F6729E2
 deb http://ppa.launchpad.net/tehnick/q4wine/ubuntu/ trusty main #Q4Wine 官方 PPA 軟體來源
 # deb-src http://ppa.launchpad.net/tehnick/q4wine/ubuntu/ trusty main #Q4Wine 官方 PPA 軟體來源
 
