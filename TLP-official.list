@@ -3,5 +3,7 @@
 # TLP is a power management tool for Linux. It brings you the benefits of advanced power management without the need to understand every technical detail.
 # 
 # Project homepage: http://linrunner.de/tlp
+# 安裝 GPG key
+# # apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 2042F03C5FABD0BA2CED40412B3F92F902D65EFF
 deb http://ppa.launchpad.net/linrunner/tlp/ubuntu trusty main #TLP 電源管理元件官方 PPA 軟體來源
 # deb-src http://ppa.launchpad.net/linrunner/tlp/ubuntu trusty main #TLP 電源管理元件官方 PPA 軟體來源
