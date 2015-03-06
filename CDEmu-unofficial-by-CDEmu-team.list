@@ -1,6 +1,8 @@
 # PPA for CDEmu : “CDEmu” team
 # https://launchpad.net/~cdemu/+archive/ubuntu/ppa
 # Unofficial CDEmu packages
+# 信任軟體來源命令
+# # apt-key adv --keyserver keyserver.ubuntu.com --recv-keys AFDF4CC6A4F32AA9395FAE8F423A2125D782A00F
 deb http://ppa.launchpad.net/cdemu/ppa/ubuntu/ trusty main #CDEmu 非官方 PPA 軟體來源
 # deb-src http://ppa.launchpad.net/cdemu/ppa/ubuntu/ trusty main #CDEmu 非官方 PPA 軟體來源
 
