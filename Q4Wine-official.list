@@ -1,11 +1,9 @@
-# Tehnick --- Q4Wine : Tehnick
-# https://launchpad.net/~tehnick/+archive/ubuntu/q4wine
-# This is an official PPA for Q4Wine project:
-# http://tehnick-8.narod.ru/q4wine/
-# http://q4wine.brezblock.org.ua/download/
+# Q4Wine PPA : “Q4Wine Developers” team
+# https://launchpad.net/~q4wine/+archive/ubuntu/ppa
+# This PPA contains Q4Wine latest stable (12.04 LTS, 12.10, 13.04 and 13.10) and unstable (13.10, 14.04) packages.
 # 
 # Import the key:
-# $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 437276613F6729E2
-deb http://ppa.launchpad.net/tehnick/q4wine/ubuntu/ trusty main #Q4Wine 官方 PPA 軟體來源
-# deb-src http://ppa.launchpad.net/tehnick/q4wine/ubuntu/ trusty main #Q4Wine 官方 PPA 軟體來源
+# $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4A04E4108EA2790F6CC4D5174A3A1E9303E3F85C
+deb http://ppa.launchpad.net/q4wine/ppa/ubuntu trusty main  #Q4Wine 官方 PPA 軟體來源
+# deb-src http://ppa.launchpad.net/q4wine/ppa/ubuntu trusty main  #Q4Wine 官方 PPA 軟體來源
 
